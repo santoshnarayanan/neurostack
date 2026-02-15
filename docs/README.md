@@ -15,7 +15,7 @@ NeuroStack follows a layered architecture:
 
 ### High-Level Architecture
 
-![High Level Architecture](diagrams/phase3/readme_high_level_archiecture.png)
+![High Level Architecture](diagrams/phase3/neurostack_system_archiecture.png)
 
 ## Phase 3 -- Local AI Control Plane (Complete)
 
