@@ -15,7 +15,7 @@ NeuroStack follows a layered architecture:
 
 ### High-Level Architecture
 
-![High Level Architecture](diagram_high_level.png)
+![High Level Architecture](diagrams/phase3/readme_high_level_archiecture.png)
 
 ## Phase 3 -- Local AI Control Plane (Complete)
 
@@ -35,8 +35,6 @@ NeuroStack follows a layered architecture:
 -   Response header traceability
 
 ### Observability Flow
-
-![Observability Flow](diagram_observability.png)
 
 ------------------------------------------------------------------------
 
