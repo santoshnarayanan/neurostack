@@ -1,0 +1,4 @@
+default_model: phi3:mini
+
+comparison_models:
+  - phi3:mini
