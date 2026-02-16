@@ -152,6 +152,8 @@ GPU is engaged only during model inference.
 
 Database operations remain CPU-bound.
 
+![GPU reference cycle](/docs/diagrams/phase3/gpu_inference_cycle.png)
+
 ------------------------------------------------------------------------
 
 # 8️⃣ Containerization Strategy
