@@ -70,6 +70,9 @@ Client\
 Quantization directly affects whether the model can be loaded into GPU
 memory.
 
+🔍 VRAM Memory Segmentation During Quantized Execution
+![Actual Quantization–VRAM Technica Flow](/docs/diagrams/phase3/actual_quantization_vram_technical.png)
+
 ------------------------------------------------------------------------
 
 ## 6. Strategic Impact
