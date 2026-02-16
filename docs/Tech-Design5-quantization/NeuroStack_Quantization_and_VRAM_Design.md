@@ -46,7 +46,7 @@ Example (Approximate Memory Needs):
 
 ## 4. Diagram Placeholder -- Quantization vs VRAM Allocation
 
-(Insert exported PNG diagram here)
+![Quantization vs VRAM Allocation](/docs/diagrams/phase3/quantization_vram_allocation.png)
 
 Suggested Diagram Concept:
 
