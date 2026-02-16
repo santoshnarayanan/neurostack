@@ -21,7 +21,7 @@ behavior, and performance implications.
 
 ### Diagram Placeholder: GPU Execution Path
 
-![GPU Execution Path](diagrams/phase3/gpu_execution_path.png)
+![GPU Execution Path](/docs/diagrams/phase3/gpu_execution_path.png)
 
 ### Execution Flow
 
@@ -48,7 +48,7 @@ Client Request\
 
 ### Diagram Placeholder: CPU Execution Path
 
-![CPU Execution Path](diagrams/phase3/cpu_execution_path.png)
+![CPU Execution Path](/docs/diagrams/phase3/cpu_execution_path.png)
 ### Execution Flow
 
 Client Request\

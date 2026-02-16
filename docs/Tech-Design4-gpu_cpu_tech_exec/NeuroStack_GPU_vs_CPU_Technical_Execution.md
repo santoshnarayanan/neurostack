@@ -15,7 +15,7 @@ differences between GPU-accelerated inference and CPU-only inference.
 
 ### Diagram Placeholder -- GPU Technical Execution
 
-(Insert exported PNG diagram here)
+![GPU Technical Execution](/docs/diagrams/phase3/gpu_technical_execution.png)
 
 Suggested Diagram Elements:
 
@@ -40,7 +40,7 @@ Execution Characteristics:
 
 ### Diagram Placeholder -- CPU Technical Execution
 
-(Insert exported PNG diagram here)
+![GPU Technical Execution](/docs/diagrams/phase3/cpu_technical_execution.png)
 
 Suggested Diagram Elements:
 

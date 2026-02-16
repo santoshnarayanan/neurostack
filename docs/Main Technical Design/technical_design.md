@@ -10,7 +10,7 @@ NeuroStack separates concerns into clearly defined layers:
 -   AI Data Plane
 -   GPU Runtime
 
-![High Level Architecture](diagrams/phase3/highlevel_archiecture.png)
+![High Level Architecture](/docs/diagrams/phase3/highlevel_archiecture.png)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ NeuroStack separates concerns into clearly defined layers:
 -   Error handling
 -   API contract enforcement
 
-![Control Plane structure](diagrams/phase3/controlplane_structure.png)
+![Control Plane structure](/docs/diagrams/phase3/controlplane_structure.png)
 ------------------------------------------------------------------------
 
 ## 3. Observability Architecture
@@ -36,7 +36,7 @@ service-level logging within the control plane.
 -   Token throughput estimation
 -   JSON structured logs
 
-![Observability Flow](diagrams/phase3/Observability_archiecture.png)
+![Observability Flow](/docs/diagrams/phase3/Observability_archiecture.png)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ service-level logging within the control plane.
 The AI Data Plane is responsible for inference execution and GPU-backed
 token generation.
 
-![Model Execution Flow](diagrams/phase3/modelexecution_lifecycle.png)
+![Model Execution Flow](/docs/diagrams/phase3/modelexecution_lifecycle.png)
 
 ------------------------------------------------------------------------
 
